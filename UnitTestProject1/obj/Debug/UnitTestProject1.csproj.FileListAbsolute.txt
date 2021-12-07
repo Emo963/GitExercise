@@ -1,0 +1,17 @@
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Version control\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Version control\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Version control\UnitTestProject1\bin\Debug\GitUnitTestDemo.exe
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Version control\UnitTestProject1\bin\Debug\GitUnitTestDemo.pdb
+D:\Version control\UnitTestProject1\bin\Debug\GitUnitTestDemo.exe.config
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Version control\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Version control\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Version control\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Version control\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Version control\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Version control\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
